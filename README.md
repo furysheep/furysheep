@@ -1,5 +1,14 @@
-### Hi there 👋 🌱 🐑 🐻 🐼
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, there~  🌱 🐑  ![Visitor Count](https://profile-counter.glitch.me/furysheep/count.svg) √î$î†ø®$
+## &#x1f4c8; GitHub Stats
 
+  <a href="https://github.com/furysheep/furysheep" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=furysheep&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
+
+  <a href="https://github.com/furysheep/furysheep" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=furysheep&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" height="180px"/>
+  </a>
+  
 <!--
 **furysheep/furysheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
