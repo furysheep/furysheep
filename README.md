@@ -1,3 +1,4 @@
+![Metrics](https://github.com/furysheep/furysheep/blob/master/github-metrics.svg)
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, there~  🌱 🐑  ![Visitor Count](https://profile-counter.glitch.me/furysheep/count.svg) √î$î†ø®$
 ## &#x1f4c8; GitHub Stats
 
